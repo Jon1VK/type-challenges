@@ -2,18 +2,12 @@
 <p align='center'><img src='./logo.svg' width='400'/></p>
 <p align='center'>Solutions for TypeScript type challenges</p>
 
-<br/>
+<br/>> Click the following badges to see solutions for the challenges.
 
-> Click the following badges to see solutions for the challenges.
-
-<br/>
-<img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/>
-<br/>
+<img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/><br/>
 <a href="./solutions/00013-warm-hello-world.ts" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a>
 
-<br/>
-<img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/>
-<br/>
+<img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/><br/>
 <a href="./solutions/00004-easy-pick.ts" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
 <a href="./solutions/00007-easy-readonly.ts" target="_blank"><img src="https://img.shields.io/badge/-7%E3%83%BBReadonly-7aad0c" alt="7・Readonly"/></a>
 <a href="./solutions/00011-easy-tuple-to-object.ts" target="_blank"><img src="https://img.shields.io/badge/-11%E3%83%BBTuple%20to%20Object-7aad0c" alt="11・Tuple to Object"/></a>
@@ -30,9 +24,7 @@
 <a href="./solutions/03312-easy-parameters.ts" target="_blank"><img src="https://img.shields.io/badge/-3312%E3%83%BBParameters-7aad0c" alt="3312・Parameters"/></a>
 -->
 
-<br/>
-<img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/>
-<br/>
+<img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/><br/>
 <!--
 <a href="./solutions/00002-medium-return-type.ts" target="_blank"><img src="https://img.shields.io/badge/-2%E3%83%BBGet%20Return%20Type-d9901a" alt="2・Get Return Type"/></a>
 <a href="./solutions/00003-medium-omit.ts" target="_blank"><img src="https://img.shields.io/badge/-3%E3%83%BBOmit-d9901a" alt="3・Omit"/></a>
@@ -104,9 +96,7 @@
 <a href="./solutions/08987-medium-subsequence.ts" target="_blank"><img src="https://img.shields.io/badge/-8987%E3%83%BBSubsequence-d9901a" alt="8987・Subsequence"/></a>
 -->
 
-<br/>
-<img src="https://img.shields.io/badge/hard-38-de3d37" alt="38"/>
-<br/>
+<img src="https://img.shields.io/badge/hard-38-de3d37" alt="38"/><br/>
 <!--
 <a href="./solutions/00006-hard-simple-vue.ts" target="_blank"><img src="https://img.shields.io/badge/-6%E3%83%BBSimple%20Vue-de3d37" alt="6・Simple Vue"/></a>
 <a href="./solutions/00017-hard-currying-1.ts" target="_blank"><img src="https://img.shields.io/badge/-17%E3%83%BBCurrying%201-de3d37" alt="17・Currying 1"/></a>
@@ -148,9 +138,7 @@
 <a href="./solutions/09775-hard-capitalize-nest-object-keys.ts" target="_blank"><img src="https://img.shields.io/badge/-9775%E3%83%BBCapitalize%20Nest%20Object%20Keys-de3d37" alt="9775・Capitalize Nest Object Keys"/></a>
 -->
 
-<br/>
-<img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/>
-<br/>
+<img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/><br/>
 <!--
 <a href="./solutions/00005-extreme-readonly-keys.ts" target="_blank"><img src="https://img.shields.io/badge/-5%E3%83%BBGet%20Readonly%20Keys-b11b8d" alt="5・Get Readonly Keys"/></a>
 <a href="./solutions/00151-extreme-query-string-parser.ts" target="_blank"><img src="https://img.shields.io/badge/-151%E3%83%BBQuery%20String%20Parser-b11b8d" alt="151・Query String Parser"/></a>
