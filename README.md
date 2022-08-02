@@ -14,8 +14,8 @@
 <br/>
 <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/>
 <br/>
-<!--
 <a href="./solutions/00004-easy-pick.ts" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBPick-7aad0c" alt="4・Pick"/></a>
+<!--
 <a href="./solutions/00007-easy-readonly.ts" target="_blank"><img src="https://img.shields.io/badge/-7%E3%83%BBReadonly-7aad0c" alt="7・Readonly"/></a>
 <a href="./solutions/00011-easy-tuple-to-object.ts" target="_blank"><img src="https://img.shields.io/badge/-11%E3%83%BBTuple%20to%20Object-7aad0c" alt="11・Tuple to Object"/></a>
 <a href="./solutions/00014-easy-first.ts" target="_blank"><img src="https://img.shields.io/badge/-14%E3%83%BBFirst%20of%20Array-7aad0c" alt="14・First of Array"/></a>
