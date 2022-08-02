@@ -23,8 +23,8 @@
 <a href="./solutions/00189-easy-awaited.ts" target="_blank"><img src="https://img.shields.io/badge/-189%E3%83%BBAwaited-7aad0c" alt="189・Awaited"/></a>
 <a href="./solutions/00268-easy-if.ts" target="_blank"><img src="https://img.shields.io/badge/-268%E3%83%BBIf-7aad0c" alt="268・If"/></a>
 <a href="./solutions/00533-easy-concat.ts" target="_blank"><img src="https://img.shields.io/badge/-533%E3%83%BBConcat-7aad0c" alt="533・Concat"/></a>
-<!--
 <a href="./solutions/00898-easy-includes.ts" target="_blank"><img src="https://img.shields.io/badge/-898%E3%83%BBIncludes-7aad0c" alt="898・Includes"/></a>
+<!--
 <a href="./solutions/03057-easy-push.ts" target="_blank"><img src="https://img.shields.io/badge/-3057%E3%83%BBPush-7aad0c" alt="3057・Push"/></a>
 <a href="./solutions/03060-easy-unshift.ts" target="_blank"><img src="https://img.shields.io/badge/-3060%E3%83%BBUnshift-7aad0c" alt="3060・Unshift"/></a>
 <a href="./solutions/03312-easy-parameters.ts" target="_blank"><img src="https://img.shields.io/badge/-3312%E3%83%BBParameters-7aad0c" alt="3312・Parameters"/></a>
