@@ -24,8 +24,8 @@
 
 <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/><br/>
 <a href="./solutions/00002-medium-return-type.ts" target="_blank"><img src="https://img.shields.io/badge/-2%E3%83%BBGet%20Return%20Type-d9901a" alt="2・Get Return Type"/></a>
-<!--
 <a href="./solutions/00003-medium-omit.ts" target="_blank"><img src="https://img.shields.io/badge/-3%E3%83%BBOmit-d9901a" alt="3・Omit"/></a>
+<!--
 <a href="./solutions/00008-medium-readonly-2.ts" target="_blank"><img src="https://img.shields.io/badge/-8%E3%83%BBReadonly%202-d9901a" alt="8・Readonly 2"/></a>
 <a href="./solutions/00009-medium-deep-readonly.ts" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
 <a href="./solutions/00010-medium-tuple-to-union.ts" target="_blank"><img src="https://img.shields.io/badge/-10%E3%83%BBTuple%20to%20Union-d9901a" alt="10・Tuple to Union"/></a>
