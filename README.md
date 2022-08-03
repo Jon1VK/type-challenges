@@ -33,8 +33,8 @@
 <a href="./solutions/00012-medium-chainable-options.ts" target="_blank"><img src="https://img.shields.io/badge/-12%E3%83%BBChainable%20Options-d9901a" alt="12・Chainable Options"/></a>
 <a href="./solutions/00015-medium-last.ts" target="_blank"><img src="https://img.shields.io/badge/-15%E3%83%BBLast%20of%20Array-d9901a" alt="15・Last of Array"/></a>
 <a href="./solutions/00016-medium-pop.ts" target="_blank"><img src="https://img.shields.io/badge/-16%E3%83%BBPop-d9901a" alt="16・Pop"/></a>
-<!--
 <a href="./solutions/00020-medium-promise-all.ts" target="_blank"><img src="https://img.shields.io/badge/-20%E3%83%BBPromise.all-d9901a" alt="20・Promise.all"/></a>
+<!--
 <a href="./solutions/00062-medium-type-lookup.ts" target="_blank"><img src="https://img.shields.io/badge/-62%E3%83%BBType%20Lookup-d9901a" alt="62・Type Lookup"/></a>
 <a href="./solutions/00106-medium-trimleft.ts" target="_blank"><img src="https://img.shields.io/badge/-106%E3%83%BBTrim%20Left-d9901a" alt="106・Trim Left"/></a>
 <a href="./solutions/00108-medium-trim.ts" target="_blank"><img src="https://img.shields.io/badge/-108%E3%83%BBTrim-d9901a" alt="108・Trim"/></a>
