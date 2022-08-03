@@ -23,8 +23,8 @@
 <a href="./solutions/03312-easy-parameters.ts" target="_blank"><img src="https://img.shields.io/badge/-3312%E3%83%BBParameters-7aad0c" alt="3312・Parameters"/></a>
 
 <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/><br/>
-<!--
 <a href="./solutions/00002-medium-return-type.ts" target="_blank"><img src="https://img.shields.io/badge/-2%E3%83%BBGet%20Return%20Type-d9901a" alt="2・Get Return Type"/></a>
+<!--
 <a href="./solutions/00003-medium-omit.ts" target="_blank"><img src="https://img.shields.io/badge/-3%E3%83%BBOmit-d9901a" alt="3・Omit"/></a>
 <a href="./solutions/00008-medium-readonly-2.ts" target="_blank"><img src="https://img.shields.io/badge/-8%E3%83%BBReadonly%202-d9901a" alt="8・Readonly 2"/></a>
 <a href="./solutions/00009-medium-deep-readonly.ts" target="_blank"><img src="https://img.shields.io/badge/-9%E3%83%BBDeep%20Readonly-d9901a" alt="9・Deep Readonly"/></a>
